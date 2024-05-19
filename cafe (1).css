@@ -24,7 +24,7 @@ scroll-behavior: smooth;
 }
 /*width*/
 html::-webkit-scrollbar{
-    width: .8rem;
+    width: .9rem;
 }
 html::-webkit-scrollbar-track{
    background: transparent;
