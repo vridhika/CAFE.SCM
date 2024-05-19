@@ -53,7 +53,7 @@ html::-webkit-scrollbar-track{
  .btn{margin-top: 1rem;
         display: inline-block;
     padding: .9rem 3rem;
-    font-size: 1.7rem;
+    font-size: 1.78rem;
     color: #fff;
     background: var(--main-color);
 cursor: pointer;
