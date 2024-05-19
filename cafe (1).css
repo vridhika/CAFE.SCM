@@ -101,7 +101,7 @@ z-index: 1000;
 }
 .header .search-form{
     position: absolute;
-    top:115% ; right: 7%;
+    top:115% ; right: 6%;
     background:#fff;
     width: 50rem;
     height: 5rem;
@@ -120,7 +120,7 @@ z-index: 1000;
 }
 .header .search-form label{
     cursor: pointer;
-    font-size: 2.2rem;
+    font-size: 2.3rem;
     margin-right: 1.5rem;
     color:var(--black);
 }
